@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610824507 source:e:\embedded systems\rampup embedded\task_7\main.c
+	<stdio.h>
+	<stdlib.h>
+
